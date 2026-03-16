@@ -2,12 +2,15 @@
 
 Hi, I'm Kartik 👋
 
-I'm learning Product Analytics and Product Management.
+Aspiring Product Analyst interested in Product Management and Data Analytics.
 
-Skills I'm currently learning:
+## Skills I'm Learning
 - SQL
 - Product Metrics
 - A/B Testing
 - Power BI
 
-Projects coming soon 🚀
+## Projects
+Projects will be added as I build them during my learning journey.
+
+Stay tuned 🚀
